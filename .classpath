@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/media/yazeed/549CA5F99CA5D5B0/yazeed files/HU yazeed/UML/UCanAccess-4.0.2-bin/ucanaccess-4.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
